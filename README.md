@@ -71,3 +71,5 @@ Below is a visualization example for `train_39.tif`.
 The submission JSON file is saved to `data/submission.json`.
 
 Before running this notebook, you have to run [generate_masks.ipynb](generate_masks.ipynb) to generate `.npy` files which will be used for training.
+
+![tb_log](resources/tb_log.jpg)
