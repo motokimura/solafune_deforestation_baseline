@@ -2,7 +2,7 @@
 
 This repository provides a baseline solution for the [Identifying Deforestation Drivers competition by Solafune](https://solafune.com/competitions/68ad4759-4686-4bb3-94b8-7063f755b43d?menu=about&tab=overview).
 
-**By running the provided notebooks, you will achieve a score of around 0.548 on the public leaderboard.**
+**By running the provided notebooks, you will achieve a score of around 0.533 on the public leaderboard.**
 
 > cf. @solafune (https://solafune.com) Use for any purpose other than participation in the competition or commercial use is prohibited. If you would like to use them for any of the above purposes, please contact us.
 
